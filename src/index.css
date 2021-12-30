@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header{
+ border: 2px solid green;
+ max-width:100vw;
+ text-align: center;
+ color:white;
+ background-color: blue;
+}
+
+
+.correct{
+  color: green;
+  font-size: 20px;
+}
+
+.incorrect{
+  color:red;
+   font-size: 20px;
+
+  
+}
+
+.question{
+ font-weight: 600;
+ font-size: 20px;
+}
